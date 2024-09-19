@@ -1,0 +1,34 @@
+[
+    
+    {
+        "id":1,
+        "image1":"/src/assets/Images/coffee.jpeg",
+        "productname":"Assorted Coffee ",
+        "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.",
+        "price":"$35.00 + Free Shipping"
+    },
+    {
+        "id":2,
+        "image2":"/src/assets/Images/sanitizer.jpeg",
+        "productname":" Hand Sanitizer",
+        "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.",
+        "price":"$15.00 + Free Shipping"
+    },
+    {
+        "id":3,
+        "type": "Groceries",
+        "image3":"/src/assets/Images/redchilli.jpeg",
+        "productname":" Handpicked Red Chillies",
+        "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.",
+        "price":"$19.00 + Free Shipping"
+    },
+    {
+        "id":4,
+        "image4":"/src/assets/Images/oil.jpeg",
+        "productname":" Natural Edible Oil",
+        "description":"Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non incidunt lores ta porro ame. numquam eius modi tempora incidunt lores ta porro ame.",
+        "price":"$25.00 + Free Shipping"
+    }
+    
+    
+    ]

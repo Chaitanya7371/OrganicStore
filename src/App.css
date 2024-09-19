@@ -1,0 +1,485 @@
+
+.navbar{
+  display: flex;
+}
+
+
+.leftnav{
+  
+  width:100%;
+  display: flex;
+  align-items: center;
+  gap: 70px;
+  
+}
+.leftnav h4{
+  color: #111111;
+  text-decoration: none;
+}
+
+.rightnav{
+  width:40rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:2rem;
+
+}
+.rightnav h4{
+  color: #111111;
+  text-decoration: none;
+}
+
+.rightnav .cart{
+  width:1.5rem
+}
+.rightnav .login{
+  width:1.5rem
+}
+
+.poster{
+  background-color: #f9f8f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:5rem;
+  height: 100vh
+}
+.text button{
+  width:120px;
+  height:40px;
+  background-color: #8BC34A;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+}
+
+.blackbox{
+  width:100%;
+  height: 13rem;
+  gap:20px;
+  display:flex;
+  justify-content: center;
+  background-color: #111111;
+  padding-top:2rem;
+
+
+}
+
+.blackbox .innerbox{
+
+  background-color: #303030;
+  width:20rem;
+  height: 10rem;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffff;
+  gap:10px
+
+}
+.innerbox img{
+  width:30px;
+}
+
+.best{
+  width:100%;
+  height: 90vh;
+  background-color: #ffff;
+}
+
+.best .bestbox{
+  width:20rem;
+  height:25rem;
+  align-items: center;
+  
+
+}
+
+.boxes{
+  display: flex;
+  gap:3rem;
+  justify-content: center;
+}
+
+.bestbox img{
+  width:100%;
+  height:70%;
+}
+
+
+.bestbox h4{
+  margin-left: 7.5rem;
+  color:#69a820;
+}
+
+.bestbox h3{
+  margin-left: 6rem;
+}
+
+.besttext{
+  display :flex;
+  justify-content: center;
+  width:100%;
+  height:15rem;
+  margin-top: 7rem;
+  font-size: 50px;
+}
+.slide{
+  width:100%;
+  height: 70vh;
+  background-color: #f8f6f3;
+  display: flex;
+  justify-content: center;
+  gap:20px
+}
+
+.slide .container{
+  width:25rem;
+  height:25rem;
+
+  margin-top:10rem;
+  background-color: #ffff;
+}
+
+.container .containertext{
+  margin-left: 10px;
+
+}
+ 
+.container button{
+  width:10rem;
+  height:3rem;
+  background-color: #69a820;
+  color: #ffff;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+
+}
+
+.containerimg img{
+  width:10rem;
+  margin-left:20rem;
+}
+
+.containerimg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width:200px;
+  height: 50px;
+}
+
+.blackbox2{
+  width:100%;
+  height:10rem;
+  background-color: black;
+  color: #ffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap:30px;
+}
+
+.blackbox2 button{
+  width:10rem;
+  height:3rem;
+  background-color: #69a820;
+  color: #ffff;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+
+}
+
+.free{
+  display: flex;
+  justify-content: center;
+  background-color:#f9f8f6;
+  width:100%;
+}
+
+.trending{
+  margin-top:10rem;
+}
+
+
+.about{
+  width:100%;
+  height: 20rem;
+  background-color: #f9f8f6;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.aboutus{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:100%;
+  height:30rem;
+  gap:20px;
+}
+
+.aboutus .para{
+  width:40%;
+  height: 20rem;
+}
+
+.parapic img{
+  width:40rem;
+}
+
+.about{
+  padding-top:10rem;
+}
+
+.about h1{
+  font-size:80px;
+}
+
+ .contact{
+  width:100%;
+  height:15rem;
+  background-color: #f8f6f3;
+  display: flex;
+  justify-content: center;
+  padding-top: 10rem;
+  
+ }
+
+ .contactus{
+  width:100%;
+  height:35rem;
+  display: flex;
+  justify-content: center;
+ }
+
+ .contactbox{
+  width:80rem;
+  height: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:6rem;
+  background-color: #ffff;
+  margin-top: -7rem;
+ }
+
+.contactbox .contactboxes{
+   width:20rem;
+   height: 10rem;
+   border: 1px solid black;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+  }
+
+  
+  .contactboxes img{
+    width:2rem;
+    height:2rem;
+  
+  }
+  .contactboxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .loginbox{
+    width:30rem;
+    height:35rem;
+    margin-left: 37%;
+    color:black;
+    padding-left: 40px;
+    margin-bottom: 12rem;
+    margin-top: 12rem;
+    background-color: #f8f6f3;
+    border-radius: 10px;
+    padding-top: 10px;
+
+   }
+ 
+   .loginbox input{
+    width:90%;
+    height:30px;
+    border-radius: 10px;
+    border:1px solid black;
+
+  }
+  .checkbox{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top:20px;
+    
+  }
+  .checkbox input{
+    width:15px;
+  }
+  
+  .loginbox button{
+    margin-top:30px;
+    margin-left: 7rem;
+    width:10rem;
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+  }
+  
+  .loginbox h3{
+    margin-top:40px;
+    margin-left: 7rem ;
+    color: black;
+  }
+ 
+  .footer{
+    width:100%;
+    height:32rem;
+    display: flex;
+    background-color: black;
+
+  }
+
+  .start{
+    width:40%;
+    height:30rem;
+    color: #ffff;
+
+  }
+
+  .mid{
+    width:35%;
+    height: 30rem;
+    color: #ffff;
+    padding-left: 40px;
+  }
+
+  .end{
+    width:25%;
+    height: 30rem;
+    color: #ffff;
+  }
+
+  .mid h3{
+    color: white;
+  }
+
+ .customer
+ {
+  width:100%;
+  height:60rem;
+ }
+.customer h2{
+  margin-left: 37rem;
+  margin-top: 10rem;
+  font-size: 70px;
+}
+
+ .review{
+  width:100%;
+  height:30rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap:20px;
+  margin-top:10rem;
+ }
+
+ .review-box{
+  width:30rem;
+  height:20rem;
+  margin-top: 8rem;
+  border-radius: 15px;
+ }
+.review-box2{
+  width:30rem;
+  height: 28rem;
+  justify-content: center;
+  background-image: url('.//assets/Images/capsicum.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+}
+
+.review-box2 button{
+  width:10rem;
+  height:3rem;
+  background-color: #69a820;
+  color: #ffff;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  margin-left: 9rem;
+}
+
+ .customerimg{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 12rem;
+  margin-top: 5em;
+  margin-left: 9rem;
+}
+
+.review-box{
+  background-color:#f8f6f3;
+}
+
+.img{
+  width:100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.type{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.productname{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -2rem;
+}
+
+.star{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.star img{
+  width:10rem;
+  margin-top:-5rem
+}
+
+.price{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top:-3rem;
+}
+
+.coffee{
+
+  width:100%;
+  height:50vh;
+  background-color: #f8f6f3;
+}
+
+
+.producti{
+  width:50%;
+  height: 50vh;
+  border: 1px solid black;
+}
